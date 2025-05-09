@@ -1,5 +1,5 @@
-# EAGLE-Enhance
-EAGLE-Enhance: Principled Pruning of Large Initialized Draft Trees for High-Performance Speculative Decoding
+# EAGLE-Extended
+Inference-Cost-Aware Dynamic Tree Construction for Efficient Inference in Large Language Models
 
 <div align="center">
   <h3 style="margin-bottom: 0.5em;">Authors</h3>
